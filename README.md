@@ -12,6 +12,9 @@ Se existir uma cidade, ele exibe o nome da cidade, do país, a temperatura atual
 
 Caso a cidade não seja encontrada, ele avisa o usuário com um alerta.
 
+Acesse por aqui:
+https://taupe-pie-641409.netlify.app/
+
 O que eu uso de técnico:
 Fetch API & Async/Await: Essa foi a parte principal. Usei funções assíncronas para garantir que o aplicativo não "trave" enquanto espera a resposta da API.
 Manipulação de JSON: Aprenda a navegar pelos objetos complexos que a API retorna para extrair exatamente o que eu preciso (como o código do país e o ícone do clima)
